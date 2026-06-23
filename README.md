@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Analisar dados de vendas para identificar padrões de faturamento e lucratividade.
+Analisar dados de vendas para identificar oportunidades de crescimento e lucratividade.
 
 ## Ferramentas Utilizadas
 
@@ -21,7 +21,16 @@ Analisar dados de vendas para identificar padrões de faturamento e lucratividad
 
 ## Principais Insights
 
--
+- Tecnologia apresentou o maior lucro acumulado.
+- Alguns estados concentram grande parte do faturamento.
+- Produtos de alto faturamento nem sempre possuem maior margem.
+
+## Próximos Passos
+
+- Estatística descritiva
+- ETL
+- SQL
+- Dashboard Power BI
 
 ## Estrutura do Projeto
 
