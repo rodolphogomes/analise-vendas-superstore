@@ -21,9 +21,13 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 
 ## Principais Insights
 
-- Tecnologia apresentou o maior lucro acumulado.
-- Alguns estados concentram grande parte do faturamento.
-- Produtos de alto faturamento nem sempre possuem maior margem.
+- O faturamento total indica um volume significativo de vendas no período analisado.
+- A categoria Tecnology apresenta maior concentração de vendas
+- Algumas regiões concentram maior parte do faturamento, indicando possível foco de mercado.
+
+## Recomendação
+
+- Recomenda-se aprofundar a análise por região para identificar oportunidades de expansão comercial.
 
 ## Próximos Passos
 
@@ -36,9 +40,13 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 
 """
 C:.
+│   .gitignore
 │   README.md
+│   requirements.txt
 │
 ├───.ipynb_checkpoints
+│       requirements-checkpoint.txt
+│
 ├───data
 │       dataset_sales.csv
 │
@@ -58,10 +66,12 @@ C:.
 │           Untitled-checkpoint.ipynb
 │
 └───sql
+    │   analises_vendas.sql
     │   dados_exercicio.db
     │   exercicios_semanal.sql
     │
     └───.ipynb_checkpoints
+            analises_vendas-checkpoint.sql
             exercicios_semanal-checkpoint.sql
             
 """
@@ -116,6 +126,20 @@ data/
 * Jupyter Notebook
 * Git
 * GitHub
+
+## KPIs do Projeto
+
+- Receita Total
+- Ticket Médio
+- Total de Pedidos
+- Total de Clientes
+
+## Análises Realizadas
+
+- Vendas por categoria
+- Vendas por região
+- Vendas por cidade
+- Análise temporal
 
 ```
 ```
