@@ -22,7 +22,7 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 ## Principais Insights
 
 - O faturamento total indica um volume significativo de vendas no período analisado.
-- A categoria Tecnology apresenta maior concentração de vendas
+- A categoria Technology apresenta maior concentração de vendas
 - Algumas regiões concentram maior parte do faturamento, indicando possível foco de mercado.
 
 ## Recomendação
