@@ -66,7 +66,23 @@ C:.
 │       requirements-checkpoint.txt
 │
 ├───data
-│       dataset_sales.csv
+│   │   dataset_sales.csv
+│   │   superstore.csv
+│   │
+│   └───.ipynb_checkpoints
+│           superstore-checkpoint.csv
+│
+├───database
+│   │   superstore.db
+│   │
+│   └───.ipynb_checkpoints
+│           superstore-checkpoint.db
+│
+├───docs
+│   │   comparacao_pandas_sql.md
+│   │
+│   └───.ipynb_checkpoints
+│           comparacao_pandas_sql-checkpoint.md
 │
 ├───images
 │       top_10_faturamento.jpg
@@ -75,22 +91,34 @@ C:.
 │
 ├───notebooks
 │   │   analise_vendas.ipynb
-│   │   dados_exercicio.db
 │   │   DataFrame.ipynb
+│   │   sql_analysis.ipynb
 │   │
 │   └───.ipynb_checkpoints
 │           analise_vendas-checkpoint.ipynb
 │           DataFrame-checkpoint.ipynb
-│           Untitled-checkpoint.ipynb
+│           sql_analysis-checkpoint.ipynb
+│
+├───scripts
+│   │   load_database.py
+│   │
+│   └───.ipynb_checkpoints
+│           load_database-checkpoint.py
 │
 └───sql
     │   analises_vendas.sql
-    │   dados_exercicio.db
     │   exercicios_semanal.sql
+    │   kpis.sql
+    │   vendas_categoria.sql
+    │   vendas_regiao.sql
     │
     └───.ipynb_checkpoints
             analises_vendas-checkpoint.sql
             exercicios_semanal-checkpoint.sql
+            kpis-checkpoint.sql
+            vendas_categoria-checkpoint.sql
+            vendas_regiao-checkpoint.sql
+
             
 """
 
