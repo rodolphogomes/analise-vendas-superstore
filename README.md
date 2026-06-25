@@ -25,9 +25,28 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 - A categoria Technology apresenta maior concentração de vendas
 - Algumas regiões concentram maior parte do faturamento, indicando possível foco de mercado.
 
+## Análise de Negócio
+
+### Categorias
+
+- A categoria que mais vende é a de Technology
+- A Subcategoria que mais vende são as de Phones e Chairs
+- Há uma grande concentração nas vendas de Phones e Chairs
+
+### Clientes
+
+- Sim, uma grande parte, já que são as maiores vendas
+- Sim, pois os poucos clientes podem consumir grandes valores
+
+### Regiões
+
+- Seria na região Oeste, onde estão concentrada um maior número de vendas
+- Seria interessante uma investigação Leste, para um possível investimento futuro
+
+
 ## Recomendação
 
-- Recomenda-se aprofundar a análise por região para identificar oportunidades de expansão comercial.
+- - A categoria de Technology possuo maior ticket médio e maior variabilidade.
 
 ## Próximos Passos
 
