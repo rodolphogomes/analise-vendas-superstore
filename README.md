@@ -29,24 +29,23 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 
 ### Categorias
 
-- A categoria que mais vende é a de Technology
-- A Subcategoria que mais vende são as de Phones e Chairs
-- Há uma grande concentração nas vendas de Phones e Chairs
+- A categoria Technology apresenta o maior volume de faturamento da empresa, indicando alta demanda e potencial para expansão de portfólio e campanhas direcionadas.
+- Phones e Chairs concentram parcela significativa do faturamento total, sugerindo que esses produtos possuem papel estratégico no resultado comercial da empresa.
 
 ### Clientes
 
 - Sim, uma grande parte, já que são as maiores vendas
-- Sim, pois os poucos clientes podem consumir grandes valores
+- A análise dos principais clientes indica concentração de receita em um grupo reduzido de compradores, o que pode representar tanto oportunidade de fidelização quanto risco de dependência comercial.
 
 ### Regiões
 
-- Seria na região Oeste, onde estão concentrada um maior número de vendas
-- Seria interessante uma investigação Leste, para um possível investimento futuro
+- A região West lidera o faturamento total, indicando forte presença comercial e mercado consolidado.
+- Investigar regiões com menor participação no faturamento para identificar barreiras comerciais e oportunidades de crescimento.
 
 
 ## Recomendação
 
-- - A categoria de Technology possuo maior ticket médio e maior variabilidade.
+- Apesar de gerar maior receita média por venda, a categoria Technology apresenta alta variabilidade, indicando coexistência de produtos de diferentes faixas de preço.
 
 ## Próximos Passos
 
