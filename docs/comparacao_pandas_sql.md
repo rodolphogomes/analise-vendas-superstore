@@ -23,6 +23,32 @@ SELECT "Sub-Category", SUM(Sales) as receita
 from sales
 GROUP BY "Sub-Category"
 
+## Top Clientes
+### Pandas
+df.groupby("Customer Name")["Sales"].sum().sort_values(ascending=False).head(10)
+
+### SQL
+SELECT
+    "Customer Name",
+    SUM(Sales)
+FROM sales
+GROUP BY "Customer Name"
+ORDER BY SUM(Sales) DESC
+LIMIT 10;
+
+
+## Top Cidades
+### Pandas
+df.groupby("City")["Sales"].sum().sort_values(ascending=False).head(10)
+
+### SQL
+SELECT
+    "City",
+    SUM(Sales)
+FROM sales
+GROUP BY "City"
+ORDER BY SUM(Sales) DESC
+LIMIT 10;
 
 # Material
 
