@@ -47,6 +47,14 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 
 - Apesar de gerar maior receita média por venda, a categoria Technology apresenta alta variabilidade, indicando coexistência de produtos de diferentes faixas de preço.
 
+## Consultas de Negócio
+
+- Top clientes por faturamento
+- Top cidades por faturamento
+- Ticket médio por categoria
+- Receita por região
+- Receita por categoria
+
 ## Próximos Passos
 
 - Estatística descritiva
