@@ -42,7 +42,6 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 - A região West lidera o faturamento total, indicando forte presença comercial e mercado consolidado.
 - Investigar regiões com menor participação no faturamento para identificar barreiras comerciais e oportunidades de crescimento.
 
-
 ## Recomendação
 
 - Apesar de gerar maior receita média por venda, a categoria Technology apresenta alta variabilidade, indicando coexistência de produtos de diferentes faixas de preço.
@@ -54,6 +53,23 @@ Analisar dados de vendas para identificar oportunidades de crescimento e lucrati
 - Ticket médio por categoria
 - Receita por região
 - Receita por categoria
+
+## Perguntas de Negócio Respondidas
+
+* Quais categorias geram mais receita?
+-  A categoria Technology apresenta o maior volume de faturamento da empresa, indicando alta demanda e potencial para expansão de portfólio e campanhas direcionadas.
+
+* Quais regiões possuem melhor desempenho?
+- A região West lidera o faturamento total, indicando forte presença comercial e mercado consolidado.
+
+* Quais estados lideram o faturamento?
+- O Estado da Califórnia apresenta o maior volume de faturamento da empresa, seguido pelo Estado de New York.
+
+* Quem são os principais clientes?
+- Após análise feita, verificamos que o clientes Sean Miller é o top 1 dos nossos principais clientes com uma receita de 25043.050, seguido por Tamara Chand, com uma receita de 19052.218.
+
+* Qual o ticket médio da operação?
+- O faturamento total indica um volume significativo de vendas com um ticket médio de 230.769059.
 
 ## Próximos Passos
 
@@ -115,15 +131,31 @@ C:.
 │
 └───sql
     │   analises_vendas.sql
+    │   clientes_estrategicos.sql
+    │   dashboard_categoria.sql
+    │   dashboard_estado.sql
+    │   dashboard_kpis.sql
+    │   dashboard_regiao.sql
     │   exercicios_semanal.sql
     │   kpis.sql
+    │   ticket_categoria.sql
+    │   top_cidades.sql
+    │   top_clientes.sql
     │   vendas_categoria.sql
     │   vendas_regiao.sql
     │
     └───.ipynb_checkpoints
             analises_vendas-checkpoint.sql
+            clientes_estrategicos-checkpoint.sql
+            dashboard_categoria-checkpoint.sql
+            dashboard_estado-checkpoint.sql
+            dashboard_kpis-checkpoint.sql
+            dashboard_regiao-checkpoint.sql
             exercicios_semanal-checkpoint.sql
             kpis-checkpoint.sql
+            ticket_categoria-checkpoint.sql
+            top_cidades-checkpoint.sql
+            top_clientes-checkpoint.sql
             vendas_categoria-checkpoint.sql
             vendas_regiao-checkpoint.sql
 
