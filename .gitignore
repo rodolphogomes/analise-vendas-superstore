@@ -5,6 +5,8 @@
 *.db3
 *.mdf
 *.ldf
+*.db-wal
+*.db-shm
 
 # Ignorar arquivos de dump e backup
 *.dump
